@@ -24,3 +24,12 @@ O objetivo do projeto foi aplicar na prática os conhecimentos teóricos adquiri
 - 💰 **Estados Unidos** possuem o maior ticket médio (R$ 333,7 milhões).
 - 📅 Vendas apresentam **sazonalidade**, com picos em determinados meses do ano.
 - 🧩 **Componentes** têm ticket médio elevado e margem positiva, sendo uma categoria saudável.
+
+## 📊 Dashboard
+Visualização geral do desempenho de vendas.
+![Dashboard](imagens/dashboard_analise.png)
+
+## 🧾 Trecho da Query SQL
+
+![Query](imagens/trecho_query.png)
+
