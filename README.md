@@ -27,9 +27,13 @@ O objetivo do projeto foi aplicar na prática os conhecimentos teóricos adquiri
 
 ## 📊 Dashboard
 Visualização geral do desempenho de vendas.
-![Dashboard](imagens/dashboard_analise.png)
+
+![Dashboard de Vendas](imagens/dash.png)
 
 ## 🧾 Trecho da Query SQL
 
+A lógica de extração e transformação dos dados foi construída utilizando SQL com uso de JOINs entre tabelas e agregações para cálculo de métricas de negócio.
+
 ![Query](imagens/trecho_query.png)
+
 
